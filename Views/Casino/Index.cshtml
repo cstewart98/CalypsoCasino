@@ -1,0 +1,18 @@
+@model Player
+@using CalypsoCasino.Controllers;
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@await Html.PartialAsync("_Title")
+
+@* Form to enter your name *@
+<form asp-action="@nameof(CasinoController.Register)" class="text-center mt-5 border border-dark p-3 bg-light">
+    <label class="form-label" asp-for="Username">What is your name?</label><br>
+    <input asp-for="Username" placeholder="Type here..." class="form-control">
+    <span asp-validation-for="Username" class="fst-italic text-danger"></span>
+
+    <button type="submit" class="form-control btn btn-primary mt-3">Play Game</button>
+
+</form>

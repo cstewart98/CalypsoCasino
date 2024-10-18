@@ -1,0 +1,485 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/obj/Debug/net8.0/scopedcss/projectbundle/CalypsoCasino.bundle.scp.css",
+      "PackagePath": "staticwebassets/CalypsoCasino.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/Limelight/Limelight-Regular.ttf",
+      "PackagePath": "staticwebassets/Limelight/Limelight-Regular.ttf"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/Limelight/OFL.txt",
+      "PackagePath": "staticwebassets/Limelight/OFL.txt"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/10C.png",
+      "PackagePath": "staticwebassets/img/10C.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/10D.png",
+      "PackagePath": "staticwebassets/img/10D.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/10H.png",
+      "PackagePath": "staticwebassets/img/10H.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/10S.png",
+      "PackagePath": "staticwebassets/img/10S.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/2C.png",
+      "PackagePath": "staticwebassets/img/2C.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/2D.png",
+      "PackagePath": "staticwebassets/img/2D.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/2H.png",
+      "PackagePath": "staticwebassets/img/2H.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/2S.png",
+      "PackagePath": "staticwebassets/img/2S.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/3C.png",
+      "PackagePath": "staticwebassets/img/3C.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/3D.png",
+      "PackagePath": "staticwebassets/img/3D.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/3H.png",
+      "PackagePath": "staticwebassets/img/3H.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/3S.png",
+      "PackagePath": "staticwebassets/img/3S.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/4C.png",
+      "PackagePath": "staticwebassets/img/4C.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/4D.png",
+      "PackagePath": "staticwebassets/img/4D.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/4H.png",
+      "PackagePath": "staticwebassets/img/4H.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/4S.png",
+      "PackagePath": "staticwebassets/img/4S.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/5C.png",
+      "PackagePath": "staticwebassets/img/5C.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/5D.png",
+      "PackagePath": "staticwebassets/img/5D.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/5H.png",
+      "PackagePath": "staticwebassets/img/5H.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/5S.png",
+      "PackagePath": "staticwebassets/img/5S.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/6C.png",
+      "PackagePath": "staticwebassets/img/6C.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/6D.png",
+      "PackagePath": "staticwebassets/img/6D.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/6H.png",
+      "PackagePath": "staticwebassets/img/6H.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/6S.png",
+      "PackagePath": "staticwebassets/img/6S.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/7C.png",
+      "PackagePath": "staticwebassets/img/7C.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/7D.png",
+      "PackagePath": "staticwebassets/img/7D.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/7H.png",
+      "PackagePath": "staticwebassets/img/7H.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/7S.png",
+      "PackagePath": "staticwebassets/img/7S.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/8C.png",
+      "PackagePath": "staticwebassets/img/8C.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/8D.png",
+      "PackagePath": "staticwebassets/img/8D.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/8H.png",
+      "PackagePath": "staticwebassets/img/8H.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/8S.png",
+      "PackagePath": "staticwebassets/img/8S.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/9C.png",
+      "PackagePath": "staticwebassets/img/9C.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/9D.png",
+      "PackagePath": "staticwebassets/img/9D.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/9H.png",
+      "PackagePath": "staticwebassets/img/9H.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/9S.png",
+      "PackagePath": "staticwebassets/img/9S.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/AC.png",
+      "PackagePath": "staticwebassets/img/AC.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/AD.png",
+      "PackagePath": "staticwebassets/img/AD.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/AH.png",
+      "PackagePath": "staticwebassets/img/AH.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/AS.png",
+      "PackagePath": "staticwebassets/img/AS.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/CardBack.png",
+      "PackagePath": "staticwebassets/img/CardBack.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/JC.png",
+      "PackagePath": "staticwebassets/img/JC.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/JD.png",
+      "PackagePath": "staticwebassets/img/JD.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/JH.png",
+      "PackagePath": "staticwebassets/img/JH.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/JS.png",
+      "PackagePath": "staticwebassets/img/JS.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/KC.png",
+      "PackagePath": "staticwebassets/img/KC.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/KD.png",
+      "PackagePath": "staticwebassets/img/KD.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/KH.png",
+      "PackagePath": "staticwebassets/img/KH.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/KS.png",
+      "PackagePath": "staticwebassets/img/KS.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/QC.png",
+      "PackagePath": "staticwebassets/img/QC.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/QD.png",
+      "PackagePath": "staticwebassets/img/QD.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/QH.png",
+      "PackagePath": "staticwebassets/img/QH.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/img/QS.png",
+      "PackagePath": "staticwebassets/img/QS.png"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.CalypsoCasino.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.CalypsoCasino.props",
+      "PackagePath": "build\\CalypsoCasino.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.CalypsoCasino.props",
+      "PackagePath": "buildMultiTargeting\\CalypsoCasino.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.CalypsoCasino.props",
+      "PackagePath": "buildTransitive\\CalypsoCasino.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
