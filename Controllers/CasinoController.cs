@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc.Filters;
 using Microsoft.EntityFrameworkCore;
 using System.Text.Json;
 using System.Linq.Expressions;
+using Microsoft.AspNetCore.Mvc.ModelBinding;
 
 namespace CalypsoCasino.Controllers;
 
@@ -36,12 +37,13 @@ public class CasinoController : Controller
             {
                 Console.WriteLine("Username is required!");
                 ModelState.AddModelError("Username", "Username is required");
-                return View("");
+                return View("Index");
             }
 
             // The Username is less than 3 characters long
-            if (newPlayer.Username.Length > 3)
+            if (!ModelState.IsValid)
             {
+                Console.WriteLine("Oops something went wrong!");
                 return View("Index");
             }
 
@@ -53,8 +55,8 @@ public class CasinoController : Controller
             Console.WriteLine($"Error message: {ex.Message}");
         }
             // User enters a valid username
-            // HttpContext.Session.SetInt32("UUID", newPlayer.PlayerId);
-            // HttpContext.Session.SetString("Username", newPlayer.Username);
+            HttpContext.Session.SetInt32("UUID", newPlayer.PlayerId);
+            HttpContext.Session.SetString("Username", newPlayer.Username);
 
             // Presenting your Bank
             int startingBank = 100;

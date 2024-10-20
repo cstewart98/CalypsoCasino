@@ -102,3 +102,4 @@
 /Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/obj/Debug/net8.0/CalypsoCasino.pdb
 /Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/obj/Debug/net8.0/CalypsoCasino.genruntimeconfig.cache
 /Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/obj/Debug/net8.0/ref/CalypsoCasino.dll
+/Users/calebstewart/Library/CloudStorage/OneDrive-Personal/VS_Shark/CalypsoCasino/obj/Debug/net8.0/CalypsoCasino.sourcelink.json
